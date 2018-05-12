@@ -24,6 +24,8 @@ description: "The Lost Stradivarius (1895), by J. Meade Falkner, is a short nove
   \ called the novel James might have written, had he written novels.\nIn August 2008,\
   \ a Joanna David reading of the novel was broadcast on BBC Radio 7.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14107#The-Lost-Stradivarius
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2004-11-21'
 gutenberg_type: Text
